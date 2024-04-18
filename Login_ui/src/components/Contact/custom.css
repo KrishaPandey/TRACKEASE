@@ -1,0 +1,54 @@
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .social-media-icon {
+    margin-right: 10px;
+    position: left;
+    margin-top: 100px;
+  }
+  .singlecol{
+    max-width: 500px;
+    margin:0 auto;
+
+  }
+  
+.contact-us-container {
+    max-width: 590px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+  
+  .contact-us-container h1 {
+    text-align: center;
+  }
+  
+  .contact-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  
+  .contact-detail {
+    width: 30%;
+    margin-bottom: 5px;
+  }
+  
+  .contact-info {
+    text-align: center;
+  }
+  
+  .contact-info h3 {
+    margin-bottom: 5px;
+  }
+  
+  .fa {
+    font-size: 12px;
+    margin-right: 10px;
+  }
+  body{
+    margin: auto;
+  }

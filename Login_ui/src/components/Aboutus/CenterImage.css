@@ -1,0 +1,25 @@
+.center-image{
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+margin-bottom:500px;
+}
+p.left-align{
+text-align: left;
+}
+p.right-align{
+text-align:right;
+}
+.header-color{
+  margin-top: 30px;
+background-color:burlywood;
+height:200px;
+}
+.heading{
+background-color: burlywood;
+height:90px;
+}
+body{
+  color:black;}
+  

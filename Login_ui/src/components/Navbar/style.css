@@ -1,0 +1,37 @@
+.photo{
+    padding-right: 350px;
+    font-size:xx-large;
+    color:  rgb(50, 50, 145);
+    
+  
+  }
+  nav {
+
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    padding-top: 30px;
+    
+  }
+  
+  ul {
+    list-style-type: none; 
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  li {
+    display: inline; 
+
+  }
+  
+  li a {
+    display: block; 
+    padding: 10px 40px; 
+    text-decoration: none; 
+    color: rgb(50, 50, 145);
+  }
+  
+  li a:hover {
+    transform: scale(1.1); /* Scale on hover */
+  }
